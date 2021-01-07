@@ -23,7 +23,7 @@ Then save the config.ini file and then open the dinavdiscordpresence.exe the you
 
 #My Discord Bot
 
-And also check out my music bot you [invite](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) and [vote](https://top.gg/bot/786209866946838528/vote) and join my [discord server](https://discord.gg/RWSEj6JrjJ)
+And also check out my music bot you can [invite](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) and [vote](https://top.gg/bot/786209866946838528/vote) and join my [discord server](https://discord.gg/RWSEj6JrjJ)
 
 
 <a href="https://top.gg/bot/786209866946838528">
