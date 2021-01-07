@@ -29,3 +29,6 @@ And also check out my music bot you can [invite](https://discord.com/oauth2/auth
 <a href="https://top.gg/bot/786209866946838528">
     <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
 </a>
+
+My Social Media
+[Instagram](https://www.instagram.com/dinav_69/) | [Twitter](https://twitter.com/Dinav69)
