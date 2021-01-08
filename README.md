@@ -10,7 +10,7 @@
 
 •Go to Rich presence under that you'll see art assets 
 
-•Click that and add Image make sure the image is atleast in 514X514 or more 
+•Click that and add Image make sure the image is atleast in 512x512 or more 
 
 •After uploading it copy the name of the image in developer to the Large Image and small image you can also use the different images as large and small images 
 
